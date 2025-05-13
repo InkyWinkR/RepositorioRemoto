@@ -4,14 +4,10 @@
  */
 package repositorioremoto;
 
-import javax.swing.JOptionPane;
-
 /**
  *
- * @author Thomas
+ * @author Lenovo LOQ
  */
-public class ClaseVaca {
-    public static void carlitosEstuboAqui (){
-    JOptionPane.showMessageDialog(null, "HOLAAA MUNDO");
-    }
+public class Ramos {
+    
 }
