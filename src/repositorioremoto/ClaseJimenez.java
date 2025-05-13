@@ -9,5 +9,8 @@ package repositorioremoto;
  * @author saimo
  */
 public class ClaseJimenez {
-    
+    public static void main(String[] args) {
+        System.out.println("Mi nombre es Saimol");
+        System.out.println("Cree una mi archivo jimenez");
+    }
 }
