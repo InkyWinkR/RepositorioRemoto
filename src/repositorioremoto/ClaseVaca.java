@@ -13,5 +13,6 @@ import javax.swing.JOptionPane;
 public class ClaseVaca {
     public static void carlitosEstuboAqui (){
     JOptionPane.showMessageDialog(null, "HOLAAA MUNDO");
+    int i = 0;
     }
 }
