@@ -10,4 +10,8 @@ package repositorioremoto;
  */
 public class ClaseJumbo {
     //hola
+    
+    public void HolaJumbo(){
+        System.out.println("Hola jumpo");
+    }
 }
