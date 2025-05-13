@@ -10,6 +10,7 @@ package repositorioremoto;
  */
 public class Ramos {
 
+
     public Ramos() {
         metodoPilla();
     }
@@ -18,4 +19,9 @@ public class Ramos {
         System.out.println("Hola mundo");
     }
     //esto es un saludo
+
+    public static void main(String[] args) {
+        System.out.println("HAS EL DISEÑO");
+    }
+
 }

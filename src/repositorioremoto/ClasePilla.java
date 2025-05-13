@@ -12,6 +12,7 @@ public class ClasePilla {
 
     public ClasePilla() {
         System.out.println("Mi nombre es Brayan Pilla");
+        System.out.println("Has el Proyecto");
     }
     
 }

@@ -10,4 +10,7 @@ package repositorioremoto;
  */
 public class ClaseRamírez {
     //hola Manuel
+    public static void main(String[] args) {
+        System.out.println("Has la base de datos");
+    }
 }
