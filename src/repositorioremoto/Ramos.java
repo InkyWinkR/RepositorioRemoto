@@ -9,5 +9,12 @@ package repositorioremoto;
  * @author Lenovo LOQ
  */
 public class Ramos {
-    
+
+    public Ramos() {
+        metodoPilla();
+    }
+   
+    public static void metodoPilla (){
+        System.out.println("Hola mundo");
+    }
 }
