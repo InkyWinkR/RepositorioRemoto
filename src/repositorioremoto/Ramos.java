@@ -9,5 +9,7 @@ package repositorioremoto;
  * @author Lenovo LOQ
  */
 public class Ramos {
-    
+    public static void main(String[] args) {
+        System.out.println("HAS EL DISEÑO");
+    }
 }
