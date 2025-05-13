@@ -9,7 +9,5 @@ package repositorioremoto;
  * @author FISEI-LB2
  */
 public class ClaseJurado {
-    public ClaseJurado(){
-        
-    }
+
 }
