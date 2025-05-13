@@ -9,6 +9,7 @@ package repositorioremoto;
  * @author FISEI-LB2
  */
 public class ClaseJurado {
+    //COMENTARIO PARA TODOS 
     public ClaseJurado(){
         System.out.println("Hola gente");
     }
