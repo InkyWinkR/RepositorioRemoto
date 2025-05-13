@@ -6,10 +6,8 @@ package repositorioremoto;
 
 /**
  *
- * @author ramir
+ * @author FISEI-LB2
  */
-public class main {
-    public static void main(String[] args) {
-        System.out.println("Aqui Thomas");
-    }
+public class ClaseJurado {
+    
 }
