@@ -6,12 +6,8 @@ package repositorioremoto;
 
 /**
  *
- * @author FISEI-LB2
+ * @author bl250
  */
-public class ClaseJurado {
-    public ClaseJurado(){
-        System.out.println("Hola gente");
-    }
+public class Lopez {
     
-
 }
